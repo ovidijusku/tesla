@@ -4,7 +4,7 @@ This project is based on Python 3. It consist of [1 class](https://github.com/ov
 
 ### Installation
 
-> git clone https://github.com/ovidijusku/sftwengineering.git
+> pip install git+https://github.com/ovidijusku/tesla/
 
 ### Access
 
