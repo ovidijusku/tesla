@@ -4,7 +4,7 @@ This project is based on Python 3. It consist of [1 class](https://github.com/ov
 
 ### Installation
 
-> pip install git+https://github.com/ovidijusku/tesla/
+> pip install git+https://github.com/ovidijusku/tesla.git
 
 ### Access
 
