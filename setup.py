@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="example-pkg-YOUR-USERNAME-HERE", # Replace with your own username
     version="0.0.1",
-    author="Example Author",
-    author_email="author@example.com",
-    description="A small example package",
+    author="Ovidijus",
+    author_email="ovidijus@example.com",
+    description="A small example package of Tesla",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pypa/sampleproject",
